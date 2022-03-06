@@ -1,4 +1,3 @@
-
 const newsRouter = require('./news');
 const siteRouter = require('./site');
 
